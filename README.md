@@ -20,7 +20,7 @@ I'm Mumeng Bo from the school of computer science, Beijing Institute of technolo
 ## Education
 ---
 ·Bachelor in Computer Science, 2015-2019  
- [Department of Computer Science and Technology](cs.bit.edu.cn)，Beijing Institute of Technology，China
+ [Department of Computer Science and Technology](http://cs.bit.edu.cn)，Beijing Institute of Technology，China
 
 
 ## Research Experience
