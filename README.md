@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Mumeng Bo(薄穆盟)
+**Student in Beijing Institute of Technology**  
 
-You can use the [editor on GitHub](https://github.com/bomumeng/bomumeng.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Lab. of BIT DB Group, School of Computer Science, Beijing Institute of Technology](http://cs.bit.edu.cn)  
+[School of Computer Science](http://cs.bit.edu.cn), [Beijing Institute of Technology](http://www.bit.edu.cn)  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[bomumeng@outlook.com](bomumeng@outlook.com), [mumeng_bo@bit.edu.cn](mumeng_bo@bit.edu.cn), [bomumeng0891@gmail.com](bomumeng0891@gmail.com)  
+Room 1213，Central Teaching Building, Beijing Institute of Technology, Beijing, China
 
-### Markdown
+## Biography
+---
+I'm Mumeng Bo from the school of computer science, Beijing Institute of technology. At present, I am working with my [supervisor](http://cs.bit.edu.cn/szdw/jsml/js/zmh/index.htm) in BIT DB Group, focusing on Entity linking and Nature Language Processs, etc
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Research
+---
+**Machine Learning**: Entity linking, Nature Language Processs  
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Education
+---
+·Bachelor in Computer Science, 2015-2019  
+ [Department of Computer Science and Technology](cs.bit.edu.cn)，Beijing Institute of Technology，China
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Research Experience
+---
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bomumeng/bomumeng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Publications
+---
