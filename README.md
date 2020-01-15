@@ -1,4 +1,4 @@
-# Mumeng Bo(薄穆盟)
+# Mumeng Bo
 **Student in Beijing Institute of Technology**  
 
 [Lab. of BIT DB Group, School of Computer Science, Beijing Institute of Technology](http://cs.bit.edu.cn)  
@@ -19,7 +19,7 @@ I'm Mumeng Bo from the school of computer science, Beijing Institute of technolo
 
 ## Education
 ---
-·Bachelor in Computer Science, 2015-2019  
+Bachelor in Computer Science, 2015-2019  
  [Department of Computer Science and Technology](http://cs.bit.edu.cn)，Beijing Institute of Technology，China
 
 
