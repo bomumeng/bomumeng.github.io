@@ -1,16 +1,4 @@
-<table border="0">
-    <tr>
-      <td width="30%">
-      <img src="/bo.jpg" width="100%">  
-      </td>
-      <td width="90%">
-        <h1>Mumeng Bo(薄穆盟)</h1>
-        <p><b>Master of Beijing Institute of Technology</b></p>
-        <p><b>University:Beijing Institute of Technology</b></p>
-        <p><b>Email: mumeng_bo@bit.edu.cn</b></p>
-      </td>
-    </tr>
-</table>
+#Mumeng Bo
 **Student in Beijing Institute of Technology**  
 
 [Lab. of BIT DB Group, School of Computer Science, Beijing Institute of Technology](http://cs.bit.edu.cn)  
